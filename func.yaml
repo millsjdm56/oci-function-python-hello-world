@@ -1,5 +1,5 @@
 schema_version: 20180708
-name: python-hello-world
+name: sample-func
 version: 0.0.12
 runtime: python3.6
 build_image: fnproject/python:3.6-dev
